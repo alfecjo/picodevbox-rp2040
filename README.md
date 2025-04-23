@@ -41,7 +41,7 @@ This image is **purpose-built for Dev Containers**, giving you:
 | Dev Containers  | Extension by Microsoft                |
 
 ![Docker: Install](img/img004.jpg)
-![VSC: Install](img/img/img005.jpg)
+![VSC: Install](img/img005.jpg)
 ![Dev Containers: Install](img/img004.jpg)
 
 ---
