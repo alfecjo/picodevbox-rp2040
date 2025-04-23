@@ -1,6 +1,6 @@
 # 🐾 rp2040-dev – BitDogLab Edition
 
-A complete and professional Docker-based development environment for the **Raspberry Pi Pico (RP2040)** — curated and maintained by [alfecjo](https://github.com/alfecjo) for **BitDogLab**.
+A complete and professional Docker-based development environment for the **Raspberry Pi Pico (RP2040)** — curated and maintained by [alfecjo](https://github.com/alfecjo) for use with the **Raspberry Pi Pico** or **BitDogLab** boards.
 
 ---
 
