@@ -52,13 +52,13 @@ code .
 
 ### 📁 When prompted by VS Code, click "Reopen in Container".
 
-![Dev Containers: Reopen Containers](../rp2040-container/img001.jpg)
+![Dev Containers: Reopen Containers](img/img001.jpg)
 
 ### Abrindo a pasta /pico/pico-examples
 
-![Dev Containers: Reopen Containers](../rp2040-container/img002.jpg)
+![Dev Containers: Reopen Containers](img/img002.jpg)
 
-![Dev Containers: Reopen Containers](../rp2040-container/img003.jpg)
+![Dev Containers: Reopen Containers](img/img003.jpg)
 
 
 
