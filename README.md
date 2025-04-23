@@ -40,6 +40,10 @@ This image is **purpose-built for Dev Containers**, giving you:
 | VS Code         | https://code.visualstudio.com/        |
 | Dev Containers  | Extension by Microsoft                |
 
+![Docker: Install](img/img004.jpg)
+![VSC: Install](img/img005.jpg)
+![Dev Containers: Install](img/img004.jpg)
+
 ---
 
 ### 🔧 Cloning and Launching
@@ -53,8 +57,6 @@ code .
 ### 📁 When prompted by VS Code, click "Reopen in Container".
 
 ![Dev Containers: Reopen Containers](img/img001.jpg)
-
-### Abrindo a pasta /pico/pico-examples
 
 ![Dev Containers: Reopen Containers](img/img002.jpg)
 
