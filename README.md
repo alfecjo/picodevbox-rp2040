@@ -9,7 +9,7 @@ A complete and professional Docker-based development environment for the **Raspb
 Everything you need for RP2040 firmware development using **Visual Studio Code Dev Containers**:
 
 - 🛠️ Raspberry Pi Pico SDK (with `pico-examples`)
-- 📦 `gcc-arm-none-eabi` toolchain v10.3
+- 💸 `gcc-arm-none-eabi` toolchain v10.3
 - 🔧 Precompiled `picotool`
 - ⚙️ CMake, Ninja, and multiarch GDB
 - 🐍 Python 3 + `pip`, `setuptools`, and dev packages
@@ -23,9 +23,9 @@ Everything you need for RP2040 firmware development using **Visual Studio Code D
 
 This image is **purpose-built for Dev Containers**, giving you:
 
-- 🧪 Reproducible builds
+- 👨‍💻 Reproducible builds
 - 🚀 Rapid onboarding
-- 🧳 Fully portable environments
+- 🍀 Fully portable environments
 - 💻 Consistent toolchains across teams and OSes
 
 ---
@@ -47,7 +47,7 @@ This image is **purpose-built for Dev Containers**, giving you:
 ![VSC: Install](img/img005.jpg)
 
 ---
-![Dev Containers: Install](img/img004.jpg)
+![Dev Containers: Install](img/img006.jpg)
 
 ---
 
