@@ -40,8 +40,13 @@ This image is **purpose-built for Dev Containers**, giving you:
 | VS Code         | https://code.visualstudio.com/        |
 | Dev Containers  | Extension by Microsoft                |
 
+---
 ![Docker: Install](img/img004.jpg)
+
+---
 ![VSC: Install](img/img005.jpg)
+
+---
 ![Dev Containers: Install](img/img004.jpg)
 
 ---
