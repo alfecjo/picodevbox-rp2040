@@ -82,6 +82,6 @@ Watch this quick video guide that walks you through setting up the development e
 
 ## Related Projects
 
-Want to learn more about projects with **BitDogLab**? Check out the following link for a practical example:
+Want to learn more about projects with **[BitDogLab](https://github.com/BitDogLab)**? Check out the following link for a practical example:
 
 - [Embarcatech HBr 2025 Project](https://github.com/alfecjo/antonio_almeida_embarcatech_HBr_2025)
