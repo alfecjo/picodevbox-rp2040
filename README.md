@@ -72,4 +72,8 @@ Want to see how to get started from scratch?
 Watch this quick video guide that walks you through setting up the development environment using Docker, Visual Studio Code, and all required dependencies — running fully inside a persistent container:
 [![Assista no YouTube](https://img.youtube.com/vi/_GeK1iBx_gQ/hqdefault.jpg)](https://www.youtube.com/watch?v=_GeK1iBx_gQ)
 
+## Related Projects
 
+Want to learn more about projects with **BitDogLab**? Check out the following link for a practical example:
+
+- [Embarcatech HBr 2025 Project](https://github.com/alfecjo/antonio_almeida_embarcatech_HBr_2025)
