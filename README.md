@@ -50,17 +50,6 @@ The **PicoDevBox** environment includes the official [Raspberry Pi `pico-sdk`](h
 
 > ℹ️ Some boards like **Arduino Nano RP2040 Connect** require extra libraries for full support of wireless features.
 
----
-
-### 🔗 Related Resources
-
-- [pico-sdk Documentation](https://raspberrypi.github.io/pico-sdk-doxygen/)
-- [CYW43 Wi-Fi Driver](https://github.com/raspberrypi/pico-sdk/tree/master/lib/)
-- [Pico Examples](https://github.com/raspberrypi/pico-examples)
-
-
----
-
 ## ✅ What's Included
 
 Everything you need for RP2040 firmware development using **Visual Studio Code Dev Containers**:
@@ -140,6 +129,15 @@ Want to learn more about this project?
 
   **[![BitDogLab](./img/bitdoglab.png)](https://github.com/BitDogLab)**
  
+---
+
+### 🔗 Related Resources
+
+- [pico-sdk Documentation](https://raspberrypi.github.io/pico-sdk-doxygen/)
+- [CYW43 Wi-Fi Driver](https://github.com/raspberrypi/pico-sdk/tree/master/lib/)
+- [Pico Examples](https://github.com/raspberrypi/pico-examples)
+
+
 ---
 
 - ## Return to the main page
