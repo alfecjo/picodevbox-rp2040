@@ -1,6 +1,8 @@
 # 🐾 PicoDevBox Edition ((🚧Work in progress))
 
-**![PicoDevBox](./img/picodevbox.png)**
+<p align="center">
+  <img src="./img/picodevbox.png" alt="PicoDevBox" />
+</p>
 
 ## 🐳 Run in a Containerized Environment
 
