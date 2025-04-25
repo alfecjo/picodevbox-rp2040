@@ -23,6 +23,7 @@ The **PicoDevBox** environment includes the official [Raspberry Pi `pico-sdk`](h
 
 | 📦 Board Name                     | ⚙️ Chip     | 🌐 Connectivity     | 💡 Notes                          |
 |----------------------------------|-------------|---------------------|-----------------------------------|
+| BitDogLab                        | RP2040      | ✅ Wi-Fi (CYW43439) | Built-in Wi-Fi supported via SDK |
 | Raspberry Pi Pico                | RP2040      | ❌ None              | Base model                        |
 | Raspberry Pi Pico H              | RP2040      | ❌ None              | Pico + pre-soldered header        |
 | Raspberry Pi Pico W              | RP2040      | ✅ Wi-Fi (CYW43439) | Built-in Wi-Fi supported via SDK |
