@@ -55,7 +55,7 @@ The **PicoDevBox** environment includes the official [Raspberry Pi `pico-sdk`](h
 ### 🔗 Related Resources
 
 - [pico-sdk Documentation](https://raspberrypi.github.io/pico-sdk-doxygen/)
-- [CYW43 Wi-Fi Driver](https://github.com/raspberrypi/pico-sdk/tree/master/lib/cyw43-driver)
+- [CYW43 Wi-Fi Driver](https://github.com/raspberrypi/pico-sdk/tree/master/lib/)
 - [Pico Examples](https://github.com/raspberrypi/pico-examples)
 
 
