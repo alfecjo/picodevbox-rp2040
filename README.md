@@ -80,8 +80,12 @@ Watch this quick video guide that walks you through setting up the development e
 
 [![Assista no YouTube](https://img.youtube.com/vi/_GeK1iBx_gQ/hqdefault.jpg)](https://www.youtube.com/watch?v=_GeK1iBx_gQ)
 
+---
+
 ## Related Projects
 
-Want to learn more about projects with **[BitDogLab](https://github.com/BitDogLab)**? Check out the following link for a practical example:
+Want to learn more about projects with **[BitDogLab](https://github.com/BitDogLab)**? 
+- 👇 Check out the example below by clicking the button:
 
-- [Embarcatech HBr 2025 Project](https://github.com/alfecjo/antonio_almeida_embarcatech_HBr_2025)
+- ## Return to the main page
+  [![HBr 2025 Project](https://img.shields.io/badge/HBr_2025_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo/antonio_almeida_embarcatech_HBr_2025)
