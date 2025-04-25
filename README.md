@@ -140,5 +140,13 @@ Want to learn more about this project?
 
 ---
 
+## 👤 Author
+**[Antonio Almeida](https://alfecjo.github.io/)**
+
+Have suggestions or found a bug?
+Feel free to contribute or open an [issue](https://github.com/alfecjo/antonio_almeida_embarcatech_HBr_2025/issues). 🚀
+
+---
+
 - ## Return to the main page
   [![HBr 2025 Project](https://img.shields.io/badge/HBr_2025_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo/antonio_almeida_embarcatech_HBr_2025)
