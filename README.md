@@ -35,10 +35,10 @@ The **PicoDevBox** environment includes the official [Raspberry Pi `pico-sdk`](h
 | WaveShare RP2040 boards         | RP2040      | ❌ / partial         | Compatible with minor tweaks      |
 
 
-## ❗️Exceções/parcial:
+> ❗️ **Exceptions / Partial Support:**  
+> Boards like the **Arduino Nano RP2040 Connect**, although based on the same RP2040 chip, include different peripherals (such as sensors and Wi-Fi/Bluetooth connectivity) that are not fully supported by the official Raspberry Pi SDK.  
+> However, they can still be used by adding additional libraries.
 
-- Placas como o Arduino Nano RP2040 Connect, apesar de usarem o mesmo chip, possuem periféricos diferentes (como sensores e conectividade Wi-Fi/BT) que não são totalmente suportados pelo SDK da Raspberry Pi.
-Mas você pode adicioná-los com bibliotecas extras.
 ---
 
 ### 🧰 What Can You Do?
