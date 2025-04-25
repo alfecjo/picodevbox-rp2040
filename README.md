@@ -15,6 +15,50 @@ A complete and professional Docker-based development environment for the **Raspb
 
 ---
 
+## ✅ Supported Boards — PicoDevBox Compatibility
+
+The **PicoDevBox** environment includes the official [Raspberry Pi `pico-sdk`](https://github.com/raspberrypi/pico-sdk), making it fully compatible with all development boards based on the **RP2040** chip.
+
+### 🧠 Officially Supported Boards
+
+| 📦 Board Name                     | ⚙️ Chip     | 🌐 Connectivity     | 💡 Notes                          |
+|----------------------------------|-------------|---------------------|-----------------------------------|
+| Raspberry Pi Pico                | RP2040      | ❌ None              | Base model                        |
+| Raspberry Pi Pico H              | RP2040      | ❌ None              | Pico + pre-soldered header        |
+| Raspberry Pi Pico W              | RP2040      | ✅ Wi-Fi (CYW43439) | Built-in Wi-Fi supported via SDK |
+| Raspberry Pi Pico WH             | RP2040      | ✅ Wi-Fi             | Pico W + pre-soldered header      |
+| Adafruit Feather RP2040         | RP2040      | ❌ (external)        | Fully SDK-compatible              |
+| Seeed Studio XIAO RP2040        | RP2040      | ❌                   | Ultra-compact                     |
+| SparkFun Pro Micro RP2040       | RP2040      | ❌                   | SDK-compatible board              |
+| Arduino Nano RP2040 Connect     | RP2040      | ✅ Wi-Fi + BT        | Partial support (Arduino libs)   |
+| WaveShare RP2040 boards         | RP2040      | ❌ / partial         | Compatible with minor tweaks      |
+
+
+## ❗️Exceções/parcial:
+
+- Placas como o Arduino Nano RP2040 Connect, apesar de usarem o mesmo chip, possuem periféricos diferentes (como sensores e conectividade Wi-Fi/BT) que não são totalmente suportados pelo SDK da Raspberry Pi.
+Mas você pode adicioná-los com bibliotecas extras.
+---
+
+### 🧰 What Can You Do?
+
+- 🛠️ Build, compile, and flash firmware for all supported RP2040 boards.
+- 📡 Develop Wi-Fi-enabled applications with **Pico W** (via built-in `pico-cyw43-driver`).
+- 🚀 Start prototyping in C/C++ right away using **Visual Studio Code** inside a fully containerized environment.
+
+> ℹ️ Some boards like **Arduino Nano RP2040 Connect** require extra libraries for full support of wireless features.
+
+---
+
+### 🔗 Related Resources
+
+- [pico-sdk Documentation](https://raspberrypi.github.io/pico-sdk-doxygen/)
+- [CYW43 Wi-Fi Driver](https://github.com/raspberrypi/pico-sdk/tree/master/lib/cyw43-driver)
+- [Pico Examples](https://github.com/raspberrypi/pico-examples)
+
+
+---
+
 ## ✅ What's Included
 
 Everything you need for RP2040 firmware development using **Visual Studio Code Dev Containers**:
