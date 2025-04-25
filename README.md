@@ -84,7 +84,8 @@ Watch this quick video guide that walks you through setting up the development e
 
 ## Related Projects
 
-Want to learn more about projects with **[BitDogLab](https://github.com/BitDogLab)**? 
+Want to learn more about projects with **[![BitDogLab](./img/bitdoglab.png)]([https://link-para-o-seu-projeto](https://github.com/BitDogLab))**? 
+
 - 👇 Check out the example below by clicking the button:
 
 - ## Return to the main page
