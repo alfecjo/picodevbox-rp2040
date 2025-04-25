@@ -84,9 +84,11 @@ Watch this quick video guide that walks you through setting up the development e
 
 ## Related Projects
 
-Want to learn more about projects with **[![BitDogLab](./img/bitdoglab.png)]([https://link-para-o-seu-projeto](https://github.com/BitDogLab))**? 
+Want to learn more about projects? 
 
 - 👇 Check out the example below by clicking the button:
+
+- **[![BitDogLab](./img/bitdoglab.png)]([https://link-para-o-seu-projeto](https://github.com/BitDogLab))**
 
 - ## Return to the main page
   [![HBr 2025 Project](https://img.shields.io/badge/HBr_2025_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo/antonio_almeida_embarcatech_HBr_2025)
