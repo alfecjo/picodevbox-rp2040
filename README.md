@@ -1,4 +1,4 @@
-# 🐾 rp2040-dev – BitDogLab Edition ((🚧Work in progress))
+# 🐾 PicoDevBox Edition ((🚧Work in progress))
 
 ## 🐳 Run in a Containerized Environment
 
