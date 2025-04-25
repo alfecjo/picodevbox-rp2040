@@ -1,5 +1,7 @@
 # 🐾 PicoDevBox Edition ((🚧Work in progress))
 
+**![PicoDevBox](./img/picodevbox.png)**
+
 ## 🐳 Run in a Containerized Environment
 
 Tired of manual setups and toolchain installations? Want to skip the setup and run the projects in a ready-to-use development environment?
