@@ -18,6 +18,6 @@
     "mounts": [
       "source=${localWorkspaceFolder}/,target=/workspace,type=bind,consistency=cached"
     ],
-    "postCreateCommand": "cp -r /workspace/.vscode /pico/pico-examples && echo 'BitDogLab: Container pronto para desenvolvimento!'"
+    "postCreateCommand": "cp -r /workspace/.vscode /pico/pico-examples && echo 'PicoDevBox: Container pronto para desenvolvimento!'"
   }
   
