@@ -88,7 +88,7 @@ Want to learn more about projects?
 
 - 👇 Check out the example below by clicking the button:
 
-  - **[![BitDogLab](./img/bitdoglab.png)]([https://link-para-o-seu-projeto](https://github.com/BitDogLab))**
+  **[![BitDogLab](./img/bitdoglab.png)]([https://link-para-o-seu-projeto](https://github.com/BitDogLab))**
  
 ---
 
