@@ -1,4 +1,4 @@
-# 🐾 PicoDevBox Edition ((🚧Work in progress))
+![PicoDevBox](./img/indevelopment.png)
 
 <p align="center">
   <img src="./img/picodevbox.png" alt="PicoDevBox" />
