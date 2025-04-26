@@ -42,7 +42,7 @@ The **PicoDevBox** environment includes the official [Raspberry Pi `pico-sdk`](h
 
 ---
 
-### 🧰 What Can You Do?
+### 🏁 What Can You Do?
 
 - 🛠️ Build, compile, and flash firmware for all supported RP2040 boards.
 - 📡 Develop Wi-Fi-enabled applications with **Pico W** (via built-in `pico-cyw43-driver`).
