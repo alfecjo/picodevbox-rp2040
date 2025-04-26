@@ -125,7 +125,7 @@ Watch this quick video guide that walks you through setting up the development e
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/alfecjo/picodevbox?style=for-the-badge)](https://hub.docker.com/r/alfecjo/picodevbox)
 
-[![DockerHub](https://img.shields.io/badge/DockerHub-alfecjo-blue?logo=docker&style=for-the-badge)](https://hub.docker.com/u/alfecjo)
+[![DockerHub](https://img.shields.io/badge/DockerHub-alfecjo-pink?logo=docker&style=for-the-badge)](https://hub.docker.com/u/alfecjo)
 ---
 
 ## Related Projects
