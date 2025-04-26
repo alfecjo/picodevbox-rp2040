@@ -1,6 +1,6 @@
 {
-    "name": "RP2040 Dev",
-    "image": "alfecjo/rp2040-dev:latest",
+    "name": "PicoDevBox",
+    "image": "alfecjo/picodevbox:latest",
     "remoteUser": "dev",
     "workspaceFolder": "/workspace",
     "customizations": {
