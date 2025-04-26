@@ -134,8 +134,7 @@ Want to learn more about this project?
 
 - 👇 Check out the example below by clicking the button:
 
-  **[![BitDogLab](./img/bitdoglab.png)](https://github.com/BitDogLab)**
- 
+  **[![BitDogLab](./img/bitdoglab.png)](https://github.com/BitDogLab/BitDogLab)**
 ---
 
 ### 🔗 Related Resources
