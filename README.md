@@ -84,7 +84,7 @@ This image is **purpose-built for Dev Containers**, giving you:
 |-----------------|---------------------------------------|
 | Docker DeskTop  | https://www.docker.com/               |
 | VS Code         | https://code.visualstudio.com/        |
-| Dev Containers  | Extension by Microsoft                |
+| Dev Containers  | ***Extension by Microsoft***          |
 
 ---
 ![Docker: Install](img/img004.jpg)
@@ -100,8 +100,8 @@ This image is **purpose-built for Dev Containers**, giving you:
 ### 🔧 Cloning and Launching
 
 ```bash
-git clone https://github.com/alfecjo/picodevbox-rp2040-container.git
-cd picodevbox-rp2040-dev
+git clone https://github.com/alfecjo/picodevbox-rp2040.git
+cd picodevbox-rp2040
 code .
 ```
 
