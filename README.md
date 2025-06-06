@@ -117,7 +117,7 @@ code .
 Want to see how to get started from scratch?
 Watch this quick video guide that walks you through setting up the development environment using Docker, Visual Studio Code, and all required dependencies — running fully inside a persistent container:
 
-[![Assista no YouTube](https://img.youtube.com/vi/_GeK1iBx_gQ/hqdefault.jpg)](https://www.youtube.com/watch?v=_GeK1iBx_gQ)
+[![Assista no YouTube](https://github.com/alfecjo/picodevbox-rp2040/blob/main/img/videoPicoDevBox.png)](https://www.youtube.com/watch?v=_GeK1iBx_gQ)
 
 ---
 
